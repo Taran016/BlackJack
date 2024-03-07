@@ -6,7 +6,7 @@ package blackjackgame;
 
 /**
  *
- * @author Taranpreet Singh
+ * @author Taranpreet Singh, Rajpreet Singh, Bharat Shira, Himanshu
  */
 
 import java.util.ArrayList;
